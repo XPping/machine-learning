@@ -6,4 +6,6 @@ SVM
 
 Logistic Regression  
 
+Random Forest
+
 
