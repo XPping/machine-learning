@@ -4,4 +4,4 @@
 3. XGBoost在构建树是计算阶段的阈值的方法不同，RandomForest是采用信息熵增益最大是所对应的特征值，XGBoost的计算方式见下图的结论部分
 
 ![image](https://github.com/XPping/machine-learning/raw/master/xgboost/algorithm/1.jpg) 
-![image](https://github.com/XPping/machine-learning/raw/master/result/xgboost1.jpg) 
+![image](https://github.com/XPping/machine-learning/raw/master/result/xgboost.jpg) 
