@@ -8,4 +8,8 @@ Logistic Regression
 
 Random Forest
 
-XGBoost
+XGBoost 
+
+NavieBayes
+
+
